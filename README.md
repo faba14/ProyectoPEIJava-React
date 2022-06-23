@@ -1,0 +1,4 @@
+//Notas :
+- Cree el test unitario para agregar un entrenador y para el listado pero no logre hacer andar el EntrenadorServiceTest.Probe todos los metodos desde el front,con postman y con pgadmin;andan.
+-Al editar el jugador no puedo cambiar el entrenador desde el front, supongo que tengo algun problema con el handleInputChange al agregarle el select al formulario.
+-Cree la funcionalidad de calcular la ganancia de cada jugador pero no me dio el tiempo para linkearlo con el front. Al probarlo con postman me da error 404, supongo que tengo un problema con el tema del path y los parametros pero no me da tiempo para resolverlo. Sin embargo creo que la lógica de la funcionalidad esta bien hecha.
